@@ -1,26 +1,19 @@
-# CS50AI: Minesweeper AI Agent
+# My AI Project Portfolio
 
-An Artificial Intelligence agent built to play Minesweeper perfectly using **propositional logic** and **logical inference**. This project was completed as part of Harvard University's CS50’s Introduction to Artificial Intelligence with Python.
+Hello! This repository highlights the 8 Artificial Intelligence projects I built using Python while completing Harvard University's CS50AI course. 
 
----
+## 🚀 The 8 AI Projects I Completed:
 
-## 🚀 Project Overview
-Unlike humans who rely on intuition or guessing, this AI agent tracks the state of the Minesweeper board using mathematical logic sentences. It converts information from revealed cells into knowledge blocks and dynamically infers which cells are guaranteed safe or contains mines.
-
-### Core Concepts Used:
-* **Knowledge Representation:** Representing the board state as logical sentences: `{cells} = count`.
-* **Inference Engine:** Automatically drawing new conclusions by identifying when one sentence is a subset of another.
-* **Propositional Logic:** Making safe moves deterministically based on facts, and calculating probabilities only when a random move is strictly required.
-
----
-
-## 🔒 Academic Honesty Notice
-To strictly comply with **CS50's Academic Honesty policy**, the source code files (`minesweeper.py`) have been intentionally omitted from this public repository to prevent plagiarism. 
-
-*The fully functioning code is hosted in a private repository and can be provided to university admissions officers or academic reviewers upon direct request.*
+* 🧠 **Minesweeper:** Built an AI agent that uses logical inference and subset evaluation to safely flag hidden mines without guessing.
+* 🧠 **Knights:** Solved classic logic puzzles ("Knights and Knaves") by representing clues as propositional logic sentences.
+* 🔍 **Degrees:** Found the shortest path between Hollywood actors using Breadth-First Search (BFS) graph algorithms.
+* 🔍 **Tic-Tac-Toe:** Programmed an unbeatable AI player using the recursive Minimax framework.
+* 🎲 **PageRank:** Rebuilt Google’s foundational ranking algorithm using Markov Chain random surfer models.
+* 🎲 **Heredity:** Designed a Bayesian Network to calculate conditional joint probabilities in family genetic histories.
+* ⚙️ **Shopping:** Trained a Machine Learning model using K-Nearest Neighbors to predict online consumer buying intent.
+* ⚙️ **Nim:** Taught an AI to play the mathematical game of Nim perfectly using Reinforcement Learning (Q-learning).
 
 ---
 
-## 💻 Tech Stack
-* **Language:** Python 3
-* **Libraries:** Pygame (for the graphical user interface visualization)
+> 🔒 **Note for MBZUAI Admissions:**  
+> To strictly follow academic honesty rules, my working Python code files are kept hidden in a private workspace. I am eager and more than happy to pull up my code editor and run live demos of any of these 8 agents during my admissions interview!
